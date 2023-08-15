@@ -12,6 +12,7 @@
 
 ### 🛠 My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <img src="./icons/Firebase-Dark.svg" width="48">
 <img src="./icons/Figma-Dark.svg" width="48">
 <img src="./icons/ExpressJS-Dark.svg" width="48">
