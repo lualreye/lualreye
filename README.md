@@ -11,15 +11,8 @@
 
 
 ### 🛠 My skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-<img src="./icons/Firebase-Dark.svg" width="48">
-<img src="./icons/Figma-Dark.svg" width="48">
-<img src="./icons/ExpressJS-Dark.svg" width="48">
-<img src="./icons/MongoDB.svg" width="48">
-<img src="./icons/Netlify-Dark.svg" width="48">
-<img src="./icons/VueJS-Dark.svg" width="48">
+[![My Skills](https://skillicons.dev/icons?i=gcp,nuxt,vue,firebase,netlify&perline=3)](https://skillicons.dev)
 
 ### 🌐 My languages
-<img src="./icons/JavaScript.svg" width="48"> 
-<img src="./icons/TypeScript.svg" width="48"> 
-<img src="./icons/CSS.svg" width="48">
+[![My Skills](https://skillicons.dev/icons?i=ts,js,css,html&perline=3)](https://skillicons.dev)
+
