@@ -11,7 +11,7 @@
 
 
 ### 🛠 My skills
-[![My Skills](https://skillicons.dev/icons?i=gcp,nuxt,vue,firebase,netlify&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,nuxt,vue,firebase,netlify,vite&perline=3)](https://skillicons.dev)
 
 ### 🌐 My languages
 [![My Skills](https://skillicons.dev/icons?i=ts,js,css,html&perline=3)](https://skillicons.dev)
